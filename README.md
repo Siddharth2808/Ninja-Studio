@@ -2,4 +2,4 @@
 
 Again a project from Coding Ninjas We b Development Project. It was a major project to showcase your css skills.
 
-Tried to give it a party look.
+It is a front end of music player app. Consisting of 2 pages. Main aim here is to show css skills. Tried to give it a party look.
